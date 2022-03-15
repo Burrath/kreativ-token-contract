@@ -1,0 +1,1 @@
+# Beta Kreativ token Contract
